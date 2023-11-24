@@ -1,8 +1,8 @@
 .musculacao{
-    max-width:200px;
-    max-height:150px;
-    width: auto;
-    height: auto;
+max-width:200px;
+max-height:150px;
+width: auto;
+height: auto;
 }
 
 .hmtl{
@@ -11,4 +11,39 @@ height: 100vh;
 font-size: 62.5%;
 color: black;
 font-family: 'lato', sans-serif;
+}
+
+.equipamento{
+max-width:200px;
+max-height:150px;
+ width: auto;
+height: auto;
+}
+
+
+.informacao{
+max-width:200px;
+max-height:150px;
+width: auto;
+height: auto;
+}
+
+
+.academia{
+max-width:200px;
+max-height:150px;
+width: auto;
+height: auto;
+}
+
+
+.començando{
+max-width:200px;
+max-height:150px;
+width: auto;
+height: auto;
+}
+
+#esquerdo{
+    align-content: left;
 }
